@@ -1,0 +1,5 @@
+{
+  "name": "InsightAI Dashboard",
+  "description": "A futuristic AI analytics dashboard with a 3D globe heatmap and real-time data visualization.",
+  "requestFramePermissions": []
+}
